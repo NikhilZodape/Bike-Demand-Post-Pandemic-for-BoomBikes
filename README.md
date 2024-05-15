@@ -1,0 +1,5 @@
+In this project, we address the critical challenge faced by BoomBikes, a US-based bike-sharing provider, in predicting the demand for shared bikes post-pandemic to boost revenue. Through a meticulous analysis of various factors influencing bike demand, including meteorological data and customer behavior, we developed a multiple linear regression model. This model not only identifies significant variables affecting bike demand but also provides insights into demand dynamics in the American market.
+
+By leveraging data analytics, BoomBikes aims to tailor its business strategy to meet customer expectations, optimize service levels, and gain a competitive edge in the market. The model's accuracy enables BoomBikes to forecast demand accurately, thereby enhancing resource allocation and ultimately driving profitability and growth.
+
+With this predictive model, BoomBikes can navigate the challenges posed by the pandemic and emerge stronger in the post-pandemic era, ensuring continued success in the competitive bike-sharing market.
